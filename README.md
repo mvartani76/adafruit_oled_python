@@ -11,6 +11,6 @@ The source for the Python SSD1306 code is:
 
 https://github.com/adafruit/Adafruit_Python_ssd1306
 
-This code references the following two adafruit modules
-Python_GPIO: https://github.com/adafruit/Adafruit_Python_GPIO
-Python_PureIO: https://github.com/adafruit/Adafruit_Python_PureIO
+This code references the following two adafruit modules<br>
+* Python_GPIO: https://github.com/adafruit/Adafruit_Python_GPIO
+* Python_PureIO: https://github.com/adafruit/Adafruit_Python_PureIO
